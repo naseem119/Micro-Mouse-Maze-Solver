@@ -7,5 +7,5 @@ This project features a micro mouse maze solver that implements an optimized lef
 2 ultrasonic sensors
 1 H-bridge
 Arduino Uno
-In addition to the robot body kit, the building process and a comprehensive list of components are documented in the Trello board linked below:
+In addition to the robot body kit, the building process and a comprehensive list of components are documented in the Trello board linked below:\n
 https://trello.com/b/mOyeIbLY/interface-project
